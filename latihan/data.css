@@ -1,0 +1,94 @@
+body {
+    background: skyblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.judul {
+    text-align: center;
+    color: #fdfdff;
+    font-weight: normal;
+}
+
+.container {
+    width: 850px;
+    height: 451px auto;
+    background: cornflowerblue;
+    color: black;
+    margin: 90px auto;
+    padding: 10px 20px 50px 20px;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 255, 0.5);
+    text-align: center;
+}
+
+.kolom {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.tombol1 {   
+    width: 15%; 
+    background: #2828e9;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 5px;
+    padding: 10px;
+    color: #fbf9f9;
+    font-size: 15px;
+    margin-top: 5px; 
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+
+.tombol2 {   
+    width: 15%; 
+    background: #8e8ea8;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 5px;
+    padding: 10px;
+    color: #fbf9f9;
+    font-size: 15px;
+    margin-top: 5px; 
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+
+.tombol3 {   
+   
+    background: #ec190a;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 5px;
+    padding: 10px 50px;
+    color: #fbf9f9;
+    font-size: 15px;
+    margin-top: 5px; 
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+
+table {
+    margin: 0 auto;
+}
+
+table td{
+    text-align: left;
+    padding: 10px;
+    background-color:#fdfdff;
+}
+
+table th{
+    text-align: left;
+    padding: 10px 100px 10px 10px;
+    background-color: #8e8ea8;
+}
